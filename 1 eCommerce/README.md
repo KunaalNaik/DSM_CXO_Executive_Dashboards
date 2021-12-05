@@ -20,16 +20,16 @@
 ![test](./Step1/eCommerce_Dashboard5.png)
 
 ## Idea 6
-![test](./Step1/eCommerce_Dashboard6.png)
+![test](./Step1/eCommerce_Dashboard6.jpg)
 
 ## Idea 7
-![test](./Step1/eCommerce_Dashboard7.png)
+![test](./Step1/eCommerce_Dashboard7.jpg)
 
 ## Idea 8
 ![test](./Step1/eCommerce_Dashboard8.png)
 
 ## Idea 9
-![test](./Step1/eCommerce_Dashboard9.png)
+![test](./Step1/eCommerce_Dashboard9.jpg)
 
 ## Idea 10
 ![test](./Step1/eCommerce_Dashboard10.png)
