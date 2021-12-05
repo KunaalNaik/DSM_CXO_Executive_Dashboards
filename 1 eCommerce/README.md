@@ -5,4 +5,4 @@
 - Step 2 : Create Metrics with Data (Create whichever Possible)
 
 ## Idea 1
-![test](/Step1/eCommerce_Dashboard1.png)
+![test](./Step1/eCommerce_Dashboard1.png)
