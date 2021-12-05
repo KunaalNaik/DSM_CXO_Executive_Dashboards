@@ -1,2 +1,4 @@
-# DSM_CXO_Executive_Dashboards
-Data Science Masterminds - CXO and Executive Dashboards
+# Step 1 eCommerce
+
+## Idea 1
+[Step 1 Manully Replicate Dashboard/eCommerce_Dashboard1.png]
