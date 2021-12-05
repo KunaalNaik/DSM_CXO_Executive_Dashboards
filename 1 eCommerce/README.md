@@ -1,4 +1,8 @@
-# Step 1 eCommerce
+# eCommerce
+
+## Steps to Execute
+- Step 1 : Manully Replicate Dashboard
+- Step 2 : Create Metrics with Data (Create whichever Possible)
 
 ## Idea 1
-![test](./Step 1 Manully Replicate Dashboard/eCommerce_Dashboard1.png)
+![test](/Step1/eCommerce_Dashboard1.png)
