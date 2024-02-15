@@ -1,4 +1,4 @@
 # eCommerce Fashion Dashboards
 
 ## CEO
-![test](screenshots/CEO.png)
+![test](screenshots/1_CEO.png)
