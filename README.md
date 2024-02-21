@@ -1,11 +1,11 @@
-# Data Science Masterminds
+# CXO and Executive Dashboards (Power BI)
 
-## Create CXO and Executive Dashboards
+## CEO Dashboard
 
-# Steps to Execute
-- Step 1 : Manully Replicate Dashboard
-- Step 2 : Create Metrics with Data (Create whichever Possible)
-- Step 3 : Create Fake Data to Create Dashboard (We may not be able to find Data for all Metrics)
+### OKR's
+A broad, overarching goal that the CEO wants to achieve 
+(focusing on the fundamental business equation of Profit = Revenue - Cost)
+- Increase Revenue
+- Reduce Costs
+- Increased Profits
 
-### Subscribe to Stay Motivated
-https://kunaalnaik.ck.page/618f9bbe74
