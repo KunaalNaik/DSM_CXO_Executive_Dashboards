@@ -7,5 +7,5 @@
 ![test](Excel_Scorecard.png)
 
 ## CEO PBI Dashboard
-![test](PBI CEO Dashbaord.png)
+![test](PBI_CEO_Dashboard.png)
 
